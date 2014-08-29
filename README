@@ -1,8 +1,8 @@
 polcoin-seeder
 ===============
 
-Polcoin-seeder is a crawler for the Litecoin network, which exposes a list
-of reliable nodes via a built-in DNS server.
+Polcoin-seeder is a crawler for the new Polcoin PLC network, which
+exposes a list of reliable nodes via a built-in DNS server.
 
 Features:
 * regularly revisits known nodes to check their availability
